@@ -1,4 +1,4 @@
-import plotly.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 import logging
 logging.basicConfig(level=logging.INFO, filemode='w', filename='py.log',
